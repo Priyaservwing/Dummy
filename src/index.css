@@ -1,0 +1,32 @@
+
+.bannerText{
+    color: violet;
+}
+.slogan{
+    color:brown;
+    
+}
+.student table{
+    border: 1px solid #ccc;
+    border-collapse:collapse;
+    Width : 200px;
+    margin-bottom: 10px;
+
+}
+.student table td,
+.student table.th{
+    text-align:right;
+    border: 1px solid #f113df;
+    padding:5px 10px;
+    border:1px solid #ccc;
+   
+
+    
+}
+.student table th{
+    width: 100px;
+    border:1px solid #ccc;
+    
+
+}
+
